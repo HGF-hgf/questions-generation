@@ -1,0 +1,45 @@
+{
+  "name": "Quiz on CITIES OF THE WORLD",
+  "questions": [
+    {
+      "question": "Which of the following cities are famous for their landmarks? (Choose all that apply)",
+      "type": "choose-many",
+      "level": "easy",
+      "correct_answers": ["Paris", "London", "New York"],
+      "incorrect_answers": ["Dallas", "Atlanta"],
+      "explanation": "Paris is famous for the Eiffel Tower, London is known for Big Ben, and New York has the Statue of Liberty. Dallas and Atlanta do not have widely recognized landmarks like these."
+    },
+    {
+      "question": "Select the cities that are located outside of the United States. (Choose all that apply)",
+      "type": "choose-many",
+      "level": "easy",
+      "correct_answers": ["Tokyo", "Sydney", "Rome"],
+      "incorrect_answers": ["Los Angeles", "Chicago"],
+      "explanation": "Tokyo is in Japan, Sydney is in Australia, and Rome is in Italy, while Los Angeles and Chicago are both cities in the United States."
+    },
+    {
+      "question": "Choose which cities are known as capitals of their countries. (Choose all that apply)",
+      "type": "choose-many",
+      "level": "easy",
+      "correct_answers": ["Tokyo", "London", "Paris"],
+      "incorrect_answers": ["Seattle", "Miami"],
+      "explanation": "Tokyo is the capital of Japan, London is the capital of the United Kingdom, and Paris is the capital of France. Seattle and Miami are cities in the US but are not capitals."
+    },
+    {
+      "question": "What is the capital of France?",
+      "type": "multiple-choice",
+      "level": "easy",
+      "correct_answers": ["Paris"],
+      "incorrect_answers": ["Madrid", "Berlin", "Rome"],
+      "explanation": "Paris is the capital city of France, while Madrid is the capital of Spain, Berlin is the capital of Germany, and Rome is the capital of Italy."
+    },
+    {
+      "question": "Which city is known for its famous Big Ben clock tower?",
+      "type": "multiple-choice",
+      "level": "easy",
+      "correct_answers": ["London"],
+      "incorrect_answers": ["Dublin", "Amsterdam", "Toronto"],
+      "explanation": "Big Ben is a famous clock tower located in London, England. The other cities listed are not known for Big Ben."
+    }
+  ]
+}
